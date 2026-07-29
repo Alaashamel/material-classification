@@ -1,5 +1,8 @@
 # Material Classification Project
 
+![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Language](https://img.shields.io/badge/language-Python-informational.svg) ![Last Commit](https://img.shields.io/github/last-commit/Alaashamel/material-classification)
+
+
 ## Overview
 CNN image classifier with transfer learning across multiple architectures and a Streamlit GUI.
 
